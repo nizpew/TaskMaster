@@ -22,12 +22,26 @@ Features
 
 ## Installation
 
-Clone the repository and install the required dependencies:
+For Windows
 ```
+#run the exe in the file
+git clone https://github.com/yourusername/taskmaster.git
+todopy/dist/todopy2
+
+#or install it manually downloading the zipfile on top right on github. extraxtind the zip. and executing the .exe in the folder todopy/dist/todopy2
+```
+
+For Linux
+```
+#Clone the repository and install the required dependencies:
+
 [bash]
 git clone https://github.com/yourusername/taskmaster.git
 cd taskmaster
 pip install -r requirements.txt
+
+#run
+python3 taskmaster.py
 ```
 
 ## Run the application:
