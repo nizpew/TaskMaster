@@ -1,0 +1,3 @@
+for windows, the .exe is in /todopy/dist
+and theres the tranlationn files, which have to be in the same directory as the exe. with the task list json also.
+you can also import new languages, or other person tasklists. downloading their files and putting in the folder of the .exe

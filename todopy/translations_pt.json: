@@ -1,0 +1,12 @@
+{
+    "add_task": "Adicionar Tarefa",
+    "max_hours_per_day": "Máximo de Horas Por Dia:",
+    "update_task_list": "Atualizar Lista de Tarefas",
+    "show_organized_tasks": "Mostrar Tarefas Organizadas",
+    "error": "Erro",
+    "all_fields_required": "Todos os campos devem ser preenchidos.",
+    "no_tasks_planned": "Nenhuma tarefa planejada para os próximos dias.",
+    "task_list": "Lista de Tarefas",
+    "organize_tasks": "Tarefas Organizadas"
+}
+

@@ -1,0 +1,19 @@
+{
+    "add_task_name_title": "Adicionar Tarefa - Nome",
+    "add_task_name_prompt": "Nome da Tarefa:",
+    "add_task_importance_title": "Adicionar Tarefa - Importância",
+    "add_task_importance_prompt": "Importância (1-5):",
+    "add_task_deadline_title": "Adicionar Tarefa - Prazo",
+    "add_task_deadline_prompt": "Prazo (dd-mm-aaaa):",
+    "add_task_duration_title": "Adicionar Tarefa - Duração",
+    "add_task_duration_prompt": "Duração (horas):",
+    "add_task": "Adicionar Tarefa",
+    "max_hours_per_day": "Máx. Horas Por Dia:",
+    "update_task_list": "Atualizar Lista de Tarefas",
+    "show_organized_tasks": "Mostrar Tarefas Organizadas",
+    "organize_tasks": "Tarefas Organizadas",
+    "error": "Erro",
+    "all_fields_required": "Todos os campos devem ser preenchidos.",
+    "no_tasks_planned": "Nenhuma tarefa planejada para os próximos dias."
+}
+
