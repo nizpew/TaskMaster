@@ -37,11 +37,11 @@ For Linux
 
 [bash]
 git clone https://github.com/yourusername/taskmaster.git
-cd taskmaster
+cd todopy
 pip install -r requirements.txt
 
 #run
-python3 taskmaster.py
+python3 todopy3.py
 ```
 
 ## Run the application:
